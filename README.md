@@ -9,7 +9,7 @@
 #### Noise sample in [/WAVs/Noise/](https://github.com/sabinM1/TMRpcm/tree/master/WAVs/Noise);
 
 ### Note:
-1. The noise could totally be my fault for not fiddling enought with the microphone or another thing that I'm not aware of. The [audio samples provided by the original author](https://github.com/sabinM1/TMRpcm/tree/master/audio_samples) are much better, it is probably something on my end.
+1. The noise could totally be my fault for not fiddling enought with the microphone or another thing that I'm not aware of. The [audio samples provided by the original author](https://github.com/sabinM1/TMRpcm/tree/master/original_audio_samples) are much better, it is probably something on my end.
 2. The failed attempt(s) with:
  - ```_5v``` at the end are recordings with the mic put on 5v not 3.3v like the rest of them. I didn't find them to be any better so I went with 3.3v for the rest of them;
  - ```_voiceoverffs``` at the end has some voice in the background;
